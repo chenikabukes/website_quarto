@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+I'm learning to use Quarto in STA304!
+
+I'm from South Africa
+
+I love animals and swimming
+
+
